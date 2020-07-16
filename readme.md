@@ -12,7 +12,7 @@ Envio via header atráves da chave "x-access-token".
   - Body: Objeto de usuário
   - Resposta:
     - Status OK: 200 e token
-	> Token a ser enviado nas solicitações via
+	> Token a ser enviado nas solicitações via header
     - Status N: Validar retorno de array de mensagens (message)
 
 ### Usuários
