@@ -58,3 +58,6 @@ Envio via header atráves da chave "x-access-token".
 	  - limite: indica o limite de registro por request
 	  - filtro: indica um filtro por nome da mercadoria
 
+## BD
+Script do banco de dados na raiz com nome "cervejaria-bd.sql".
+
